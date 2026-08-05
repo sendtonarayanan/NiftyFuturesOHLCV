@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Except directories
+!*/
+
+# Track CSV files
+!*.csv
+
+# Keep this file itself
+!.gitignore
